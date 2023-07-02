@@ -1,0 +1,39 @@
+* {
+  max-width: 1280px;
+}
+
+.barra {
+  background-color: #28a745 !important;
+}
+
+.fuentetitulo {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.fuentesubtitulo {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.fuentepequena {
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.fuentemedium {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.maxheight {
+  max-height: 278px;
+}
+
+.espacioicono {
+  margin-right: 10px;
+}
